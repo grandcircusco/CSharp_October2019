@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\bin\Debug\netcoreapp3.0\Day 1 - Variables.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\obj\Debug\netcoreapp3.0\Day 1 - Variables.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\obj\Debug\netcoreapp3.0\Day 1 - Variables.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\obj\Debug\netcoreapp3.0\Day 1 - Variables.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\obj\Debug\netcoreapp3.0\Day 1 - Variables.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\C# October 2019\Day 1 - Variables\Day 1 - Variables\obj\Debug\netcoreapp3.0\Day 1 - Variables.pdb
