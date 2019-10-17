@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\bin\Debug\netcoreapp3.0\Logical Operators.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\obj\Debug\netcoreapp3.0\Logical Operators.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\obj\Debug\netcoreapp3.0\Logical Operators.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\obj\Debug\netcoreapp3.0\Logical Operators.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\obj\Debug\netcoreapp3.0\Logical Operators.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\Logical Operators\obj\Debug\netcoreapp3.0\Logical Operators.pdb

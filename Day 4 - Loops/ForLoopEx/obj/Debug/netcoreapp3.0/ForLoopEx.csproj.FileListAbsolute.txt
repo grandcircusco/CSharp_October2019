@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\bin\Debug\netcoreapp3.0\ForLoopEx.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\obj\Debug\netcoreapp3.0\ForLoopEx.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\obj\Debug\netcoreapp3.0\ForLoopEx.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\obj\Debug\netcoreapp3.0\ForLoopEx.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\obj\Debug\netcoreapp3.0\ForLoopEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForLoopEx\obj\Debug\netcoreapp3.0\ForLoopEx.pdb

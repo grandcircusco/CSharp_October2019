@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\bin\Debug\netcoreapp3.0\ForeachLoop.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\obj\Debug\netcoreapp3.0\ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\obj\Debug\netcoreapp3.0\ForeachLoop.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\obj\Debug\netcoreapp3.0\ForeachLoop.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\ForeachLoop\obj\Debug\netcoreapp3.0\ForeachLoop.pdb

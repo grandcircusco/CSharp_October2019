@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\obj\Debug\netcoreapp3.0\ReadIntegerMethodEx.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\obj\Debug\netcoreapp3.0\ReadIntegerMethodEx.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\obj\Debug\netcoreapp3.0\ReadIntegerMethodEx.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\bin\Debug\netcoreapp3.0\ReadIntegerMethodEx.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\obj\Debug\netcoreapp3.0\ReadIntegerMethodEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\ReadIntegerMethodEx\obj\Debug\netcoreapp3.0\ReadIntegerMethodEx.pdb

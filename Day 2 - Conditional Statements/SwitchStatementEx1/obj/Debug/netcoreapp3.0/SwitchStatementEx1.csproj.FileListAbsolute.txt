@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\bin\Debug\netcoreapp3.0\SwitchStatementEx1.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\obj\Debug\netcoreapp3.0\SwitchStatementEx1.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\obj\Debug\netcoreapp3.0\SwitchStatementEx1.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\obj\Debug\netcoreapp3.0\SwitchStatementEx1.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\obj\Debug\netcoreapp3.0\SwitchStatementEx1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 2 - Conditional Statements\SwitchStatementEx1\obj\Debug\netcoreapp3.0\SwitchStatementEx1.pdb

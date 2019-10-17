@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\bin\Debug\netcoreapp3.0\RecursionEx1.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\obj\Debug\netcoreapp3.0\RecursionEx1.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\obj\Debug\netcoreapp3.0\RecursionEx1.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\obj\Debug\netcoreapp3.0\RecursionEx1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\obj\Debug\netcoreapp3.0\RecursionEx1.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionEx1\obj\Debug\netcoreapp3.0\RecursionEx1.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\bin\Debug\netcoreapp3.0\RecursionSumEx.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\obj\Debug\netcoreapp3.0\RecursionSumEx.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\obj\Debug\netcoreapp3.0\RecursionSumEx.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\obj\Debug\netcoreapp3.0\RecursionSumEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\RecursionSumEx\obj\Debug\netcoreapp3.0\RecursionSumEx.pdb

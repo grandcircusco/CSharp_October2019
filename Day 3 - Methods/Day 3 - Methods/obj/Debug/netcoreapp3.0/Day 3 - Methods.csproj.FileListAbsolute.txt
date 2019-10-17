@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\bin\Debug\netcoreapp3.0\Day 3 - Methods.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\obj\Debug\netcoreapp3.0\Day 3 - Methods.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\obj\Debug\netcoreapp3.0\Day 3 - Methods.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\obj\Debug\netcoreapp3.0\Day 3 - Methods.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\obj\Debug\netcoreapp3.0\Day 3 - Methods.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 3 - Methods\Day 3 - Methods\obj\Debug\netcoreapp3.0\Day 3 - Methods.pdb

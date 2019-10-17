@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\bin\Debug\netcoreapp3.0\WhileLoopEx2j.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\obj\Debug\netcoreapp3.0\WhileLoopEx2j.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\obj\Debug\netcoreapp3.0\WhileLoopEx2j.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\obj\Debug\netcoreapp3.0\WhileLoopEx2j.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\obj\Debug\netcoreapp3.0\WhileLoopEx2j.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 4 - Loops\WhileLoopEx2j\obj\Debug\netcoreapp3.0\WhileLoopEx2j.pdb
