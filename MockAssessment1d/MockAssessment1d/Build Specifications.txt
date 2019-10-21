@@ -1,0 +1,31 @@
+﻿OVERVIEW
+Create a C# console application that utilizes methods and conditional statements. 
+Your completed application should include methods that perform the required actions and follow proper naming conventions.
+
+BUILD SPECIFICATIONS
+The assessment is worth ten points, one for each of the test cases below. Pay special attention to the items in bold. You must use these in your program exactly, including capitalization, in order to get the points.
+
+For this challenge, you will need to create a new C# Project named Assessment1a. Write your code in your Program.cs class. You will not be graded on what’s in your Main method, though you are encouraged to test your code as you write it.
+
+
+1.) Method IsVowel() 
+	A.) Char parameter 
+	B.) Returns a bool
+	C.) The method is public and static
+	D.) If the parameter is a e i o or u, return true
+	E.) If  the parameter is anything else, return false
+
+2.) Method CountVowels()
+	A.) String parameter 
+	B.) The method is public and static
+	C.) Returns an int
+	D.)Count all the vowels in the string parameter and return the total number of vowels.
+
+3.) Method TooManyVowels() 
+	A.) String parameter 
+	B.) The method is public and static
+	C.) Returns a string
+	D.) Count the vowels in the parameter and return the following strings:
+	E.) If the total number of vowels in the string is less than or equal to 4, return “few vowels”
+	F.) If the total number of vowels in the string is between 5 and 7 return “right amount of vowels” 
+	G.) If the total number of vowels is greater than or equal to 8, return “too many vowels”
