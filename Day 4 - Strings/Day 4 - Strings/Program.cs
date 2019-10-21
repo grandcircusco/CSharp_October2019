@@ -46,6 +46,14 @@ namespace Day_4___Strings
 
             string beginningTogether = together.Substring(0, index);
             Console.WriteLine(beginningTogether);
+
+            string vowels = "aeiou";
+            string word = "word";
+            if (vowels.Contains(word[0]))
+            {
+
+                
+            }
         }
     }
 }
