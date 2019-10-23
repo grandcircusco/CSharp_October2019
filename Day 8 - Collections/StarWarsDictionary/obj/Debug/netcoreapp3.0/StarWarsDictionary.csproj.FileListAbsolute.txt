@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\bin\Debug\netcoreapp3.0\StarWarsDictionary.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\StarWarsDictionary\obj\Debug\netcoreapp3.0\StarWarsDictionary.pdb

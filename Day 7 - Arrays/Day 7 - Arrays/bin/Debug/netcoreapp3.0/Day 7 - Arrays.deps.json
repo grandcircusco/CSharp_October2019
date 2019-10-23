@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Day 7 - Arrays/1.0.0": {
+        "runtime": {
+          "Day 7 - Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day 7 - Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

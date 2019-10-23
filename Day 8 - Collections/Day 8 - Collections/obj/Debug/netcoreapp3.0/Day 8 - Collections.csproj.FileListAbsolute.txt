@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\bin\Debug\netcoreapp3.0\Day 8 - Collections.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\obj\Debug\netcoreapp3.0\Day 8 - Collections.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\obj\Debug\netcoreapp3.0\Day 8 - Collections.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\obj\Debug\netcoreapp3.0\Day 8 - Collections.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\obj\Debug\netcoreapp3.0\Day 8 - Collections.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 8 - Collections\Day 8 - Collections\obj\Debug\netcoreapp3.0\Day 8 - Collections.pdb

@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\netcoreapp3.0\Day 7 - Arrays.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\netcoreapp3.0\Day 7 - Arrays.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\netcoreapp3.0\Day 7 - Arrays.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\netcoreapp3.0\Day 7 - Arrays.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\netcoreapp3.0\Day 7 - Arrays.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\netcoreapp3.0\Day 7 - Arrays.pdb
