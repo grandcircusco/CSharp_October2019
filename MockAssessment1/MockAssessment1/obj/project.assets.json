@@ -6661,11 +6661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JediD\\OneDrive\\July 2019 Work\\MockAssessment1\\MockAssessment1\\MockAssessment1.csproj",
+      "projectUniqueName": "C:\\Users\\JediD\\Desktop\\CSharp_October2019\\MockAssessment1\\MockAssessment1\\MockAssessment1.csproj",
       "projectName": "MockAssessment1",
-      "projectPath": "C:\\Users\\JediD\\OneDrive\\July 2019 Work\\MockAssessment1\\MockAssessment1\\MockAssessment1.csproj",
+      "projectPath": "C:\\Users\\JediD\\Desktop\\CSharp_October2019\\MockAssessment1\\MockAssessment1\\MockAssessment1.csproj",
       "packagesPath": "C:\\Users\\JediD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JediD\\OneDrive\\July 2019 Work\\MockAssessment1\\MockAssessment1\\obj\\",
+      "outputPath": "C:\\Users\\JediD\\Desktop\\CSharp_October2019\\MockAssessment1\\MockAssessment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

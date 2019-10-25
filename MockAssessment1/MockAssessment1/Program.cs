@@ -4,6 +4,55 @@ namespace MockAssessment1
 {
     class Program
     {
+        public static bool IsTheSame(int num1, int num2)
+        {
+            if (num1 == num2)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static double Subtract(double num1, double num2)
+        {
+            double result = num1 - num2;
+            return result;
+        }
+
+        public static string FindBuildingType(int someKindOfInteger)
+        {
+            string result = "";
+            if (someKindOfInteger >= 4 && someKindOfInteger <= 10)
+            {
+                result = "This is an office building!";
+            }
+            else if (someKindOfInteger >= 50)
+            {
+                result = "This is a SUPER skyscraper!";
+            }
+            else if (someKindOfInteger >= 11 && someKindOfInteger <= 49)
+            {
+                result = "This is a skyscraper!";
+            }
+            else if (someKindOfInteger <= 3)
+            {
+                result = "This is a house!";
+            }
+            else
+            {
+                result =  "You done messed up son";
+            }
+            return result;
+        }
+
+
+
+
+
+
+
+
+
         // In order to run the unit tests provided in this project you will need to down a few NuGet Packages.
         // 1. Select Tools - from the Menu Bar
         //   a. NuGet Package Manager
