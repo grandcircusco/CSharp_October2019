@@ -50,7 +50,7 @@ namespace MockAssessment1
             {
                 expected = "This is an office building!";
             }
-            else if (num > 50)
+            else if (num >= 50)
             {
                 expected = "This is a SUPER skyscraper!";
             }
@@ -58,7 +58,7 @@ namespace MockAssessment1
             {
                 expected = "This is a skyscraper!";
             }
-            else if( num < 3 )
+            else if( num <= 3 )
             {
                 expected = "This is a house!";
             }
