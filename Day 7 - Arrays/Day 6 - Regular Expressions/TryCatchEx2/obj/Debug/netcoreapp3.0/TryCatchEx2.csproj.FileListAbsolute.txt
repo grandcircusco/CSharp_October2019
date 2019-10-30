@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\bin\Debug\netcoreapp3.0\TryCatchEx2.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\obj\Debug\netcoreapp3.0\TryCatchEx2.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\obj\Debug\netcoreapp3.0\TryCatchEx2.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\obj\Debug\netcoreapp3.0\TryCatchEx2.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\obj\Debug\netcoreapp3.0\TryCatchEx2.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\TryCatchEx2\obj\Debug\netcoreapp3.0\TryCatchEx2.pdb

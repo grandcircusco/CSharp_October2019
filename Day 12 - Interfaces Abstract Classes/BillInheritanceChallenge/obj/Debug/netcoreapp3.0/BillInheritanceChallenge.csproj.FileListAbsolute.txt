@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\bin\Debug\netcoreapp3.0\BillInheritanceChallenge.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\obj\Debug\netcoreapp3.0\BillInheritanceChallenge.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\obj\Debug\netcoreapp3.0\BillInheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\obj\Debug\netcoreapp3.0\BillInheritanceChallenge.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\obj\Debug\netcoreapp3.0\BillInheritanceChallenge.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\BillInheritanceChallenge\obj\Debug\netcoreapp3.0\BillInheritanceChallenge.pdb

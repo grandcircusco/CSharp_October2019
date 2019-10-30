@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\bin\Debug\netcoreapp3.0\FileIOExample1.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\obj\Debug\netcoreapp3.0\FileIOExample1.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\obj\Debug\netcoreapp3.0\FileIOExample1.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\obj\Debug\netcoreapp3.0\FileIOExample1.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\obj\Debug\netcoreapp3.0\FileIOExample1.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOExample1\obj\Debug\netcoreapp3.0\FileIOExample1.pdb

@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\bin\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\obj\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\obj\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\obj\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\obj\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\Day 13 - EnumerationsFileIO\obj\Debug\netcoreapp3.0\Day 13 - EnumerationsFileIO.pdb

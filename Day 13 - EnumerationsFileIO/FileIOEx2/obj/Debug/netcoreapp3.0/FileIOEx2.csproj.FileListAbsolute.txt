@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 13 - EnumerationsFileIO\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.pdb

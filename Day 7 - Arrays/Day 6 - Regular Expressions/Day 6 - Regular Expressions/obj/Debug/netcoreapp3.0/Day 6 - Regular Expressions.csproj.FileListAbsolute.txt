@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\bin\Debug\netcoreapp3.0\Day 6 - Regular Expressions.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\obj\Debug\netcoreapp3.0\Day 6 - Regular Expressions.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\obj\Debug\netcoreapp3.0\Day 6 - Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\obj\Debug\netcoreapp3.0\Day 6 - Regular Expressions.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\obj\Debug\netcoreapp3.0\Day 6 - Regular Expressions.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Day 6 - Regular Expressions\Day 6 - Regular Expressions\obj\Debug\netcoreapp3.0\Day 6 - Regular Expressions.pdb

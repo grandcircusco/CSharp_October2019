@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\bin\Debug\netcoreapp3.0\PersonClassExample.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\obj\Debug\netcoreapp3.0\PersonClassExample.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\obj\Debug\netcoreapp3.0\PersonClassExample.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\obj\Debug\netcoreapp3.0\PersonClassExample.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\obj\Debug\netcoreapp3.0\PersonClassExample.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\PersonClassExample\obj\Debug\netcoreapp3.0\PersonClassExample.pdb

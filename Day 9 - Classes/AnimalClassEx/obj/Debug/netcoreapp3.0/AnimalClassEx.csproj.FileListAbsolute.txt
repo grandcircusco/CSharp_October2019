@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\bin\Debug\netcoreapp3.0\AnimalClassEx.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\obj\Debug\netcoreapp3.0\AnimalClassEx.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\obj\Debug\netcoreapp3.0\AnimalClassEx.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\obj\Debug\netcoreapp3.0\AnimalClassEx.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 9 - Classes\AnimalClassEx\obj\Debug\netcoreapp3.0\AnimalClassEx.pdb

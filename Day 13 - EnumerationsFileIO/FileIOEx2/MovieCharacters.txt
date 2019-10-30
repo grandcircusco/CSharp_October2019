@@ -1,0 +1,8 @@
+Columbus|True|Lead|23
+Ruby Rose|True|Lead|17
+Jack Skellington|True|Lead|99
+Joker|False|Lead|30
+Doug "The Thug" Glatt|True|Lead|30
+John Rambo|True|Lead|75
+Lieutenant Dan|True|Supporting Actor|45
+Samwise Gamgee|True|The Real MVP|102

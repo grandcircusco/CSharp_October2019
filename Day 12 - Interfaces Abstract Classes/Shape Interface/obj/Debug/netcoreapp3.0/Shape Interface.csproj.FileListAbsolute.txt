@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\bin\Debug\netcoreapp3.0\Shape Interface.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\obj\Debug\netcoreapp3.0\Shape Interface.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\obj\Debug\netcoreapp3.0\Shape Interface.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\obj\Debug\netcoreapp3.0\Shape Interface.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\obj\Debug\netcoreapp3.0\Shape Interface.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 12 - Interfaces Abstract Classes\Shape Interface\obj\Debug\netcoreapp3.0\Shape Interface.pdb
