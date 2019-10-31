@@ -7,12 +7,26 @@ git commit -m "Message explaining what you did"
 other users --
 git clone <url>
 
+//open up the project in Visual Studio and make some changes!
+//Now you're going to want to push those changes up to your branch.
 git checkout -b <branchname> (Creates and switches to new branch)
+git add .
+git commit -m "message here"
 git push --set-upstream origin <branchname> (Connects your branch to Github)
 
 git checkout master (switches to master branch)
 git merge <branchname> (merges <branchname> into <current branch>) 
-git push
+git push origin master
+
+//if there are changes to the master (if another group member has merged his changes while you're working),
+//git pull 
+//YOU MIGHT BE SENT TO VIM (Also known as THE UPSIDE DOWN). IF YOU ARE: Esc :q enter to get outta there.
+
+//if you have merge conflicts:
+git status will tell you where they are.
+go into your project with your teammate and decide what to keep, what to throw out, and what is what
+
+once satisfied, git add ., git commit -m "", git push
 
 git branch -d <branchname> (deletes branch)
 
