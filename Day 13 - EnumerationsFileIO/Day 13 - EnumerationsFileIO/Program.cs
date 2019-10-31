@@ -11,6 +11,8 @@ namespace Day_13___EnumerationsFileIO
             string fourthDay = Enum.GetName(typeof(Days), 4);
             Console.WriteLine(fourthDay);
 
+            Days day = Enum.GetName("Wednesday";
+
 
         }
     }
