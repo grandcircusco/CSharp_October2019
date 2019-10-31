@@ -1,0 +1,23 @@
+git init
+touch .gitignore --> bin/ obj/ .vs/
+git add .
+git commit -m "Message explaining what you did"
+<Github Commands>
+
+other users --
+git clone <url>
+
+git checkout -b <branchname> (Creates and switches to new branch)
+git push --set-upstream origin <branchname> (Connects your branch to Github)
+
+git checkout master (switches to master branch)
+git merge <branchname> (merges <branchname> into <current branch>) 
+git push
+
+git branch -d <branchname> (deletes branch)
+
+**create new branch**
+
+git pull origin master (pulls <branchname> into current <branch>)
+
+
