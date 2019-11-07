@@ -1,0 +1,9 @@
+--CREATE TABLE Grade(
+-- GradeId INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+-- LabName NVARCHAR(20) NOT NULL,
+-- DueDate DATETIME NOT NULL,
+-- LabGrade NCHAR,
+-- StudentId INT FOREIGN KEY REFERENCES Student(StudentId)
+--);
+
+--DROP TABLE Grade;

@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\bin\Debug\netcoreapp3.0\Day 17 - DSandA.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\obj\Debug\netcoreapp3.0\Day 17 - DSandA.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\obj\Debug\netcoreapp3.0\Day 17 - DSandA.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\obj\Debug\netcoreapp3.0\Day 17 - DSandA.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\obj\Debug\netcoreapp3.0\Day 17 - DSandA.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 17 - DSandA\Day 17 - DSandA\obj\Debug\netcoreapp3.0\Day 17 - DSandA.pdb

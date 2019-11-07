@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\bin\Debug\netcoreapp3.0\MockAssessment3.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.0\MockAssessment3.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.0\MockAssessment3.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.0\MockAssessment3.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.0\MockAssessment3.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\MockAssessment3\MockAssessment3\obj\Debug\netcoreapp3.0\MockAssessment3.pdb

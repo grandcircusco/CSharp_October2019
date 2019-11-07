@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Day 17 - DSandA/1.0.0": {
+        "runtime": {
+          "Day 17 - DSandA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day 17 - DSandA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
