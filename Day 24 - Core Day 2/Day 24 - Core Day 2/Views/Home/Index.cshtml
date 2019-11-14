@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{ 
+    var person = "Anna";
+    <h3>@person</h3>
+    foreach(char letter in person)
+    {
+        <h4>@letter</h4>
+    }
+}
+
+<form action="/" method="post"></form>

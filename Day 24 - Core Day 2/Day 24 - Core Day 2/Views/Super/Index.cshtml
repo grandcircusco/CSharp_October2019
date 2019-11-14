@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-controller="Super" asp-action="DisplaySupers" method="get">
+    <label>Heros</label>
+    <input type="radio" name="selection" value="Heros" />
+    <label>Villains</label>
+    <input type="radio" name="selection" value="Villains" />
+
+    <button type="submit">See these guys!</button>
+</form>
+
+@*<input type="submit" value="See these guys!"/>*@

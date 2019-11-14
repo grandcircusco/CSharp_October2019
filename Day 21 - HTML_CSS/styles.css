@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+}
+
+.thanksgiving {
+    color: yellow;
+}
+
+.sportsball{
+    background-color: magenta;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding-left: 150px;
+    padding-right: 150px;
+}

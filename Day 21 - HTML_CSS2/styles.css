@@ -1,0 +1,56 @@
+body{
+    background-image: url(ComputerCat.gif);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.randomTVCharacters{
+    background-color: purple;
+    color: hotpink;
+    width: 8em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#characterImages{
+    text-align: center;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.imageDiv{
+    display: inline-block;
+    font-family: cursive;
+    color: blue;
+    font-size: 18px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+/*
+#characterImages{
+    text-align: center;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.imageDiv{
+    display: inline-block;
+    font-family: cursive;
+    color: blue;
+    font-size: 18px;
+}
+*/

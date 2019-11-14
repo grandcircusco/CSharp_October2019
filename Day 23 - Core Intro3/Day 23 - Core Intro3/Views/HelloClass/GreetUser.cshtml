@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "GreetUser";
+}
+
+@model Day_23___Core_Intro3.Models.User
+
+<h1>Greet User</h1>
+
+@for(int i = 0; i < Model.Number; i++)
+{
+    <p>Hiiii @Model.Name!!!!</p>
+}
+
