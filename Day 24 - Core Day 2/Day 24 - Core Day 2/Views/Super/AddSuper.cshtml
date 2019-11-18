@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "AddSuper";
+}
+
+<h1>Add Super</h1>
+
+<form action="../Super/AddSuper" method="post">
+    <label>Real name: </label>
+    <input type="text" name="IRLName" value="" required />
+    <label>Super name: </label>
+    <input type="text" name="SuperName" required />
+    <label>Good or Bad: </label>
+    <input type="radio" name="GoodOrBad" value="true" required />
+    <input type="radio" name="GoodOrBad" value="false" />
+    <label>Universe: </label>
+    <input type="text" name="Universe" required/>
+    <input type="submit" value="Add a new one!" />
+</form>

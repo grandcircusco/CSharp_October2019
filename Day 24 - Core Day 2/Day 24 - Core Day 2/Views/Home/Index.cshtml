@@ -2,13 +2,13 @@
     ViewData["Title"] = "Home Page";
 }
 
-@{ 
+@{
     var person = "Anna";
     <h3>@person</h3>
-    foreach(char letter in person)
+    foreach (char letter in person)
     {
         <h4>@letter</h4>
     }
 }
 
-<form action="/" method="post"></form>
+<a class="nav-link text-dark" asp-area="" asp-controller="Super" asp-action="Index">Super Page!</a>

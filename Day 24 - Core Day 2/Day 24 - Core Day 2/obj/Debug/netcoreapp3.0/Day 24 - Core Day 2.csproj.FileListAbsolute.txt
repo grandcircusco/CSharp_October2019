@@ -126,3 +126,4 @@ C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_Oct
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 24 - Core Day 2\Day 24 - Core Day 2\obj\Debug\netcoreapp3.0\Day 24 - Core Day 2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 24 - Core Day 2\Day 24 - Core Day 2\obj\Debug\netcoreapp3.0\Razor\Views\Super\Index.cshtml.g.cs
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 24 - Core Day 2\Day 24 - Core Day 2\obj\Debug\netcoreapp3.0\Razor\Views\Super\DisplaySupers.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 24 - Core Day 2\Day 24 - Core Day 2\obj\Debug\netcoreapp3.0\Razor\Views\Super\AddSuper.cshtml.g.cs

@@ -1,0 +1,35 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.exe
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.Views.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\bin\Debug\netcoreapp3.0\Day 26 - Sessions.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\staticwebassets\Day 26 - Sessions.StaticWebAssets.Manifest.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\staticwebassets\Day 26 - Sessions.StaticWebAssets.xml
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.TagHelpers.input.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.TagHelpers.output.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.RazorCoreGenerate.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.RazorTargetAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 26 - Sessions\Day 26 - Sessions\obj\Debug\netcoreapp3.0\Day 26 - Sessions.csproj.CopyComplete

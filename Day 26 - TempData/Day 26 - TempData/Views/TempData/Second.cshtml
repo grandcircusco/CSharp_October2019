@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Second";
+    var haroldVariable = TempData["HaroldsKey"]?.ToString();
+    TempData.Keep();
+}
+
+<h1>Second</h1>
+
+Harold's Name: @haroldVariable
+

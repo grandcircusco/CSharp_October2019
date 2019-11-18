@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "AddStudent";
+}
+
+<h1>Add Student</h1>
+
+<form action="../Student/DisplayStudent" method="post">
+
+    <input type="text" name="FirstName" placeholder="First Name"/> <br />
+    <input type="text" name="LastName" placeholder="Last Name" /> <br />
+    <label>Birthday</label>
+    <input type="date" name="DOB"  /> <br />
+    <label>GPA</label>
+    <input type="number" name="GPA" value="4.0" />
+
+    <input type="submit" class="btn-outline-success" value="Add Student!" />
+
+    @Html.ValidationSummary();
+</form>

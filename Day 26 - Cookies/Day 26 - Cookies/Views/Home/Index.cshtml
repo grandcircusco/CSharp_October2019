@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using Microsoft.AspNetCore.Http
+
+    <form action="../Home/SaveUserName" method="post">
+        <input type="text" name="UserName" value="" />
+        <input type="submit" class="btn-outline-dark" value="Coookie me!" />
+    </form>
+
+@{ 
+    var userName =  Context.Request.Cookies["UserCookie"];
+    if(userName != null)
+    {
+        <h3>Hi, @userName!!!</h3>
+    }
+}
