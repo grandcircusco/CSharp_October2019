@@ -126,3 +126,4 @@ C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_Oct
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 27 - EFCore2\Day 27 - EFCore2\obj\Debug\netcoreapp3.0\Day 27 - EFCore2.pdb
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 27 - EFCore2\Day 27 - EFCore2\obj\Debug\netcoreapp3.0\Razor\Views\SchoolDb\ListPeople.cshtml.g.cs
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 27 - EFCore2\Day 27 - EFCore2\obj\Debug\netcoreapp3.0\Razor\Views\SchoolDb\AddNewPerson.cshtml.g.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\Student Docs\CSharp_October2019\Day 27 - EFCore2\Day 27 - EFCore2\obj\Debug\netcoreapp3.0\Razor\Views\SchoolDb\UpdatePerson.cshtml.g.cs

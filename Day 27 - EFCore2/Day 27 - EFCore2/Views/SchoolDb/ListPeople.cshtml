@@ -9,24 +9,26 @@
 
     @foreach (Person person in Model)
     {
-        <div class="col-md-3">
-            <h3>@person.FirstName @person.LastName</h3>
-            <h6>@person.Dob</h6>
-            @if (person.StudentId != null)
-            {
-                <p>@person.FirstName is a Student!</p>
-            }
-            else if (person.InstructorId != null)
-            {
-                <p>@person.FirstName is an instructor!</p>
-            }
-            else
-            {
-                <p>I don't know what this person is.</p>
-            }
+    <div class="col-md-3">
+        <h3>@person.FirstName @person.LastName</h3>
+        <h6>@person.Dob</h6>
+        @if (person.StudentId != null)
+        {
+            <p>@person.FirstName is a Student!</p>
+        }
+        else if (person.InstructorId != null)
+        {
+            <p>@person.FirstName is an instructor!</p>
+        }
+        else
+        {
+            <p>I don't know what this person is.</p>
+        }
 
-            <a href="../SchoolDb/RemovePerson?id=@person.Id" class="btn-danger">Delete @person.FirstName</a>
-        </div>
+        <a href="../SchoolDb/UpdatePerson?id=@person.Id" class="btn-success">Update @person.FirstName</a>
+        <a href="../SchoolDb/RemovePerson?id=@person.Id" class="btn-danger">Delete @person.FirstName</a>
+
+    </div>
     }
 
 </div>

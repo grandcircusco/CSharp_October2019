@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "UpdatePerson";
+}
+
+@model Person
+
+<h1>Update Person</h1>
+
+<form action="../SchoolDb/UpdatePerson" method="post">
+    <input type="hidden" name="Id" value="@Model.Id"/>
+    <input type="text" name="FirstName" value="@Model.FirstName" />
+    <input type="text" name="LastName" value="@Model.LastName" placeholder="@Model.LastName"/>
+    <input type="date" name="Dob" value="@Model.Dob.ToString("yyyy-MM-dd")" placeholder="@Model.Dob"/>
+
+    <input type="submit" value="Change user" />
+</form>

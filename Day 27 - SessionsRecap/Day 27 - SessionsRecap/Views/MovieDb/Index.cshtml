@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Movies>
+<h1>Index</h1>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Lead</th>
+        <th></th>
+    </tr>
+    @foreach (Movies movie in Model)
+    {
+        <tr>
+            <td>@movie.Title</td>
+            <td>@movie.Category</td>
+            <td>@movie.ReleaseDate</td>
+            <td>@movie.Director</td>
+            <td>@movie.LeadActor</td>
+            <td><a href="../MovieDb/AddToFavorites?id=@movie.Id" class="btn-primary">Add to Favorites!</a></td>
+        </tr>
+    }
+</table>

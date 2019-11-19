@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "ListFavorites";
+}
+
+@model List<Movies>
+
+<h1>Your favorite movies!!!</h1>
+
+
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Year</th>
+        <th>Director</th>
+        <th>Lead</th>
+        <th></th>
+    </tr>
+    @foreach (Movies movie in Model)
+    {
+        <tr>
+            <td>@movie.Title</td>
+            <td>@movie.Category</td>
+            <td>@movie.ReleaseDate</td>
+            <td>@movie.Director</td>
+            <td>@movie.LeadActor</td>
+            <td><a href="../MovieDb/RemoveFromFavorites?id=@movie.Id" class="btn-danger">Remove from Favorites!</a></td>
+        </tr>
+    }
+</table>
