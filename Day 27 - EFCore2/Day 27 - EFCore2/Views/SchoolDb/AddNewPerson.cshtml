@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "AddNewPerson";
+}
+
+<h1>Add New Person</h1>
+
+<form action="../SchoolDb/AddNewPerson" method="post">
+    First Name: <input type="text" name="FirstName" required /> <br />
+    Last Name: <input type="text" name="LastName" required/> <br />
+    Birthday: <input type="date" name="Dob" required /> <br />
+    Student: <input type="radio" name="StudentOrInstructor" value="Student" />
+    Instructor: <input type="radio" name="StudentOrInstructor" value="Instructor" /> <br />
+
+    <input type="submit" value="Add Person!" />
+</form>
