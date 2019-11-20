@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "ListEmployeesByDepartment";
+}
+@using Day_28___EFCoreCodeFirst1.Context
+@model List<Employee>
+
+<h1>List Employees By Department</h1>
+
+<table>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email Address</th>
+    </tr>
+    @foreach (Employee employee in Model)
+    {
+<tr>
+    <td>@employee.FirstName</td>
+    <td>@employee.LastName</td>
+    <td>@employee.Email</td>
+    <td><a href="../CompanyDb/UpdateEmployee?@employee.EmployeeId">Update Employee</a></td>
+    <td><a href="../CompanyDb/DeleteEmployee?@employee.EmployeeId">Delete Employee</a></td>
+</tr>
+    }
+</table>

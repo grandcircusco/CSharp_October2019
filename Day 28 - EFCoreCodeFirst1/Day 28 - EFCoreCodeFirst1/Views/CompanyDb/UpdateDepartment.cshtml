@@ -1,0 +1,17 @@
+﻿@using Day_28___EFCoreCodeFirst1.Context
+@{
+    ViewData["Title"] = "UpdateDepartment";
+}
+@model Department
+<h1>UpdateDepartment</h1>
+
+<form action="../CompanyDb/UpdateDepartment" method="post">
+    <input type="text" name="Name" value="@Model.Name" />
+    <input type="text" name="Location" value="@Model.Location" />
+    <input type="text" name="Type" value="@Model.Type" />
+    <input type="text" pattern="[0-9]{1,}[.]{1}[0-9]{2}" name="Budget" value="@Model.Budget" />
+    <input type="hidden" name="DepartmentId" value="@Model.DepartmentId" />
+
+    <input type="submit" value="Change" />
+
+</form>

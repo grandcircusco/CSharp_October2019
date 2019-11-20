@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "DepartmentIndex";
+}
+@using Day_28___EFCoreCodeFirst1.Context
+@model List<Department>
+<h1>Department Index</h1>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Type</th>
+        <th>Budget</th>
+    </tr>
+    @foreach (Department department in Model)
+    {
+        <tr>
+            <td>@department.Name</td>
+            <td>@department.Location</td>
+            <td>@department.Type</td>
+            <td>@department.Budget</td>
+            <td>
+                <a href="../CompanyDb/UpdateDepartment?id=@department.DepartmentId"> Update Database</a>
+            </td>
+            <td>
+                <a href="../CompanyDb/DeleteDepartment?id=@department.DepartmentId"> Delete Department</a>
+            </td>
+            <td>
+                <a href="../CompanyDb/ListEmployeesByDepartment?id=@department.DepartmentId"> List Employees In Department</a>
+            </td>
+
+        </tr>
+    }
+</table>
+<a href="../CompanyDb/AddDepartment">Add New Department!</a>
+

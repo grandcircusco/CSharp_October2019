@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "AddDepartment";
+}
+
+<h1>AddDepartment</h1>
+<form action="../CompanyDb/AddDepartment" method="post">
+    <input type="text" name="Name" placeholder="Name" />
+    <input type="text" name="Location" placeholder="Location" />
+    <input type="text"  name="Type" placeholder="Type" />
+    <input type="text" pattern="[0-9]{1,}[.]{1}[0-9]{2}" name="Budget" placeholder="Budget" />
+    <input type="submit" class="btn-dark" value="Submit!" />
+
+</form>

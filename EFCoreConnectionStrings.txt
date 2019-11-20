@@ -1,0 +1,5 @@
+//Database First Only
+Scaffold-DbContext "Server=.\SQLExpress;Database=Movie_DB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -Outputdir Models
+
+//Db First AND Code First (in Startup.cs)
+"Server=.\\SQLExpress;Database=CompanyDb;Trusted_Connection=True;ConnectRetryCount=0;";
