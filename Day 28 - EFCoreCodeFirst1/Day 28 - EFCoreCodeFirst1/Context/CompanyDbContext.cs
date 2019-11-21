@@ -19,9 +19,10 @@ namespace Day_28___EFCoreCodeFirst1.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Department>().HasData(
-                new Department(1, "Accounting", "East Wing", "Finance", 0.30),
-                new Department(2, "Marketing", "West Wing", "Advertising", 5000000.00),
-                new Department(3, "Sales", "Sales Floor", "Peons", 16.00)
+                new Department(1, "Orphan Employees", "Not found", "Lost", 0.00),
+                new Department(2, "Accounting", "East Wing", "Finance", 0.30),
+                new Department(3, "Marketing", "West Wing", "Advertising", 5000000.00),
+                new Department(4, "Sales", "Sales Floor", "Peons", 16.00)
                 );
 
             modelBuilder.Entity<Employee>().HasData(

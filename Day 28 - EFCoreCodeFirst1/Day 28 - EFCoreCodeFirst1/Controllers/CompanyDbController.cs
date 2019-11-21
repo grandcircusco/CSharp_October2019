@@ -67,5 +67,26 @@ namespace Day_28___EFCoreCodeFirst1.Controllers
             }
             return RedirectToAction("DepartmentIndex");
         }
+
+        public IActionResult DeleteDepartment(int id)
+        {
+            var foundDepartment = _context.Departments.Find(id);
+            if(foundDepartment != null)
+            {
+                MoveEmployees(id);
+                _context.Departments.Remove(foundDepartment);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("DepartmentIndex");
+        }
+
+        private void MoveEmployees(int id)
+        {
+            var employees = _context.Employees.Where(employee => employee.DepartmentId == id).ToList();
+            foreach(Employee employee in employees)
+            {
+                employee.DepartmentId = 5;
+            }
+        }
     }
 }

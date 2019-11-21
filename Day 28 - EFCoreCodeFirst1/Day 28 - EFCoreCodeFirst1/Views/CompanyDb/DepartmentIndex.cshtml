@@ -15,6 +15,7 @@
     </tr>
     @foreach (Department department in Model)
     {
+        if(department.DepartmentId != 1) { 
         <tr>
             <td>@department.Name</td>
             <td>@department.Location</td>
@@ -31,6 +32,7 @@
             </td>
 
         </tr>
+        }
     }
 </table>
 <a href="../CompanyDb/AddDepartment">Add New Department!</a>

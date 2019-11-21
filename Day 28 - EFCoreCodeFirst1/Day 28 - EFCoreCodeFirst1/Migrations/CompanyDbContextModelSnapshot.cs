@@ -50,6 +50,14 @@ namespace Day_28___EFCoreCodeFirst1.Migrations
                         new
                         {
                             DepartmentId = 1,
+                            Budget = 0.0,
+                            Location = "Not found",
+                            Name = "Orphan Employees",
+                            Type = "Lost"
+                        },
+                        new
+                        {
+                            DepartmentId = 2,
                             Budget = 0.29999999999999999,
                             Location = "East Wing",
                             Name = "Accounting",
@@ -57,7 +65,7 @@ namespace Day_28___EFCoreCodeFirst1.Migrations
                         },
                         new
                         {
-                            DepartmentId = 2,
+                            DepartmentId = 3,
                             Budget = 5000000.0,
                             Location = "West Wing",
                             Name = "Marketing",
@@ -65,7 +73,7 @@ namespace Day_28___EFCoreCodeFirst1.Migrations
                         },
                         new
                         {
-                            DepartmentId = 3,
+                            DepartmentId = 4,
                             Budget = 16.0,
                             Location = "Sales Floor",
                             Name = "Sales",

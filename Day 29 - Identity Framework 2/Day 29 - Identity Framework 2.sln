@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 29 - Identity Framework 2", "Day 29 - Identity Framework 2\Day 29 - Identity Framework 2.csproj", "{16B8D63C-4B91-44E6-8882-48B5228FBE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B8D63C-4B91-44E6-8882-48B5228FBE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B8D63C-4B91-44E6-8882-48B5228FBE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B8D63C-4B91-44E6-8882-48B5228FBE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B8D63C-4B91-44E6-8882-48B5228FBE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF0FF35-5D0B-4455-8D55-F378A66E8298}
+	EndGlobalSection
+EndGlobal
