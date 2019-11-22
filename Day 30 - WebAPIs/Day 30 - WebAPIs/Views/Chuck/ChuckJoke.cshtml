@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ChuckJoke";
+}
+@model Chuck
+
+<h1>Chuck Joke</h1>
+
+@Model.value.joke
+
+<form action="../Chuck/UserNameJoke" method="post">
+    <input type="text" name="FirstName" placeholder="First Name" />
+    <input type="text" name="LastName" placeholder="Last Name" />
+    <input type="submit" class="btn-primary" value="What's your joke?" />
+</form>

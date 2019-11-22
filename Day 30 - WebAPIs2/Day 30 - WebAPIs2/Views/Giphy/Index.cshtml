@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model Giphy
+<h1>Index</h1>
+
+<img src="@Model.data[0].images.original.url" alt="Here's ya gif!" />
+
