@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model DonutRoot
+
+<form asp-controller="Home" asp-action="Search" method="post">
+    @*<select name="id">
+        @foreach (var donut in Model.Results)
+        {
+            <option value="@donut.Id">@donut.Name</option>
+        }
+    </select>*@
+    <input type="number" name="id" placeholder="Enter Donut Id"/>
+    <input type="submit" />
+</form>
