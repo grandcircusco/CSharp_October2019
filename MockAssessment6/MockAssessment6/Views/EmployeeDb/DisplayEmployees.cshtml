@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "DisplayEmployees";
+}
+
+@model List<Employee>
+<h1>Display Employees</h1>
+
+<table class="table">
+    <tr>
+        <th>First Name</th>
+        <th>Age</th>
+        <th>Salary</th>
+
+    </tr>
+    @foreach (Employee emp in Model)
+    {
+<tr>
+    <td>@emp.FirstName</td>
+    <td>@emp.Age</td>
+    <td>@emp.Salary</td>
+</tr>
+    }
+
+</table>
+
+<form action="../EmployeeDb/RetirementInfo" method="post">
+
+    <input type="number" name="Id" />
+    <input type="submit" name="" value="Search" />
+
+</form>

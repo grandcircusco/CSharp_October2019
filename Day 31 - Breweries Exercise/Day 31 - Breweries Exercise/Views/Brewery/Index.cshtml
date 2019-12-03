@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form action="../Brewery/DisplayBreweriesByState" method="post">
+    @Html.DropDownList("BrewState", new SelectList(Enum.GetValues(typeof(States))),
+                "Start State", new { @class = "form-control" })
+
+    <input type="submit" value="" />
+
+</form>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 31 - Web APIs2", "Day 31 - Web APIs2\Day 31 - Web APIs2.csproj", "{6EDDC98D-6753-4DCC-941D-915F2D45B96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDDC98D-6753-4DCC-941D-915F2D45B96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDDC98D-6753-4DCC-941D-915F2D45B96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDDC98D-6753-4DCC-941D-915F2D45B96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDDC98D-6753-4DCC-941D-915F2D45B96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D56FC8-CF66-40DE-8B01-0074FEC57C03}
+	EndGlobalSection
+EndGlobal
